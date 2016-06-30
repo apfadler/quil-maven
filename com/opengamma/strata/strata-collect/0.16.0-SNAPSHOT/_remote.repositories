@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 28 14:56:10 CEST 2016
+strata-collect-0.16.0-SNAPSHOT-tests.jar>=
+strata-collect-0.16.0-SNAPSHOT.jar>=
+strata-collect-0.16.0-SNAPSHOT.pom>=
